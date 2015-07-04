@@ -1,0 +1,15 @@
+span.css-identifier { 
+    color: navy ;  
+} 
+
+span.css-punctuation {
+ color: #bb0000 ;
+}
+
+span.css-number {
+    color: green ;
+}
+
+span.css-string {
+    color: green ;
+}
